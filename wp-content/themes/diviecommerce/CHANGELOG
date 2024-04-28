@@ -1,0 +1,155 @@
+Version 1.3.4, March 10, 2023
+Fix: List of required plugins doesn't show
+
+Version 1.3.3 February 27, 2023
+- Fix potential critical error when updating theme
+
+Version 1.3.2 February 16, 2023
+- Update the default footer text
+
+Version 1.3.1 November 15, 2022
+- Fix: issue with the built-in theme updater when the helper plugin was also active
+
+Version 1.3.0 November 8, 2022
+- Added feature to change form fields color scheme through WordPress customizer
+- Fix styling issues for WooCommerce form fields
+
+Version 1.2.10 February 23, 2021
+- Fix: Product overlay position with Divi 4.14.8 +
+
+Version 1.2.9 November 22, 2021
+- Removed Breadcrumbs NavXT plugin
+- Miscellaneous styling fixes:
+- - Fixed 404 page issues with Dynamic CSS enabled
+- - Fixed Related Posts issues with Dynamic CSS enabled
+- - Removed border from WP PageNavi "Page 1 of..."
+- - Fixed WooCommerce review issues
+
+Version 1.2.8
+- Updated license statements
+
+Version 1.2.7 September 15, 2021
+- Change site URL in updater for Aspen Grove Studios product version
+
+Version 1.2.6  May 27, 2021
+- Removed Caldera Forms plugin (replaced with Divi forms)
+- Added plugins:
+- - Shortcodes for Divi
+- - WP Layouts
+- Fixed issue with displaying Sale Flashes in Visual Builder
+- Fixed mega menu styles
+- Fixed issue with displaying Cross Sells on WooCommerce cart
+- Miscellaneous styling fixes
+- Updated demo data importer
+
+Version 1.2.5 February 26, 2021
+- Updated demo data importer
+- Updated Theme Builder templates
+- Fix styling issues for WooCommerce breadcrumbs
+- Removed /admin/importer directory
+- Add Addons tab to the admin area
+
+Version 1.2.4 November 20, 2020:
+- Updated demo data importer
+
+ Version 1.2.3 August 4, 2020:
+- Updated demo data importer
+- Fix styling issues for WooCommerce breadcrumbs
+
+Version 1.2.2 June 19, 2020:
+- Updated demo data importer (without Yoast meta data)
+
+Version 1.2.1 April 30, 2020:
+- Updated demo data importer
+
+Version 1.2.0 April 25, 2020:
+- New settings in the theme customizer!
+- Enable/ Disable product overlay
+- Custom product overlay text
+- Change number of products per row based on the device
+- Enable/ Disable custom buy now button
+- Enable/ Disable sale badge (flash)
+- Improvements for the demo importer
+- Availability to import only Theme Builder templates
+- Fix for Caldera forms
+- Hide license key
+- Fix styling issues for WooCommerce pages
+
+Version 1.1.3 March 5, 2020:
+- Updated demo importer
+- Changed folder structure
+- Updated license.txt
+
+Version 1.1.2 January 30, 2020:
+- Fixed problem with using Divi’s visual builder on the product page
+- Fixed products grid on the homepage
+- Fixed border width on shop CTAs (homepage)
+- Fixed buttons styling after Divi 4.0 update
+- Replaced deprecated `get_woocommerce_term_meta` function `with get_term_meta`
+- Added translations to child theme files
+- Added \"Child theme settings\" tab to WordPress customizer
+- Added feature to change child theme color scheme through WordPress customizer
+- Removed `colors.css` file (no longer needed)
+- Updated content, admin styling improvements
+- Updated demo files, `content.xml`
+- Added Divi Ghoster compatibility
+- Moved child theme admin functions from `functions.php` to `admin-functions.php`
+- Removed function that allows adding svg files
+- Updated all stylesheets  to meet wordpress.org CSS Coding Standards
+- Updated Child Theme css rules
+- Updated licensing information in `style.css`
+- Added changelog `readme.txt`
+- Added `license.txt`
+- Created shop and product page layouts in Divi Theme Builder
+- Added license key protection
+
+Version 1.1.1 January 16, 2020
+- Fix homepage sections (Divi 4.2.0)
+
+Version 1.1.0 January 15, 2020
+- Fix out of stock button
+
+Version 1.0.9 November 5, 2019
+- Force 3 columns for WooCommerce Products
+- Fix WooCommerce Product Overlay
+- Demo content update
+- Added text domain
+- Updated hover effect on all WooCommerce buttons
+- Updated 404.php - ready to translate
+- Updated Add to Cart text - ready to translate
+- Updated single.php and index.php - “read more” button ready to translate
+- Fixed issue with “Sale” badge
+- Updated “Shop Now” text on product hover - ready to translate
+- Removed border from empty cart page
+- Updated “Shop now” hover effect
+- Updated demo link in the Ecommerce Theme Options
+- Updated logo in the Ecommerce Theme Options
+- Styling improvements on the Import Demo Data page
+- Added margin to variable product price
+
+Version 1.0.8 October 24, 2019
+- Updated files within the /aspen-demo-content/ directory
+
+Version 1.0.7 October 3, 2019
+- Fix WooCommerce buttons
+
+Version 1.0.6 December 13, 2018
+- Fix sidebar appearing below page content on WooCommerce product pages with the \"No sidebar\" page layout selected
+- Functions.php
+
+Version 1.0.5 August 28, 2018
+- Fixed issue with shop sidebar search styling, woocommerce.css
+- Fixed issue with product category not displaying properly on homepage, woocommerce.css
+- Fixed spacing issue on product archives tablet view, woocommerce.css
+
+Version 1.0.4 March 4, 2018
+- Fixed syntax errors in single.php and colors.css
+
+Version 1.0.3, March 23, 2018
+- Resolved multiple import errors that caused the demo data import process to stall in some instances.
+
+Version 1.0.2, January 26, 2018
+- Fixed undefined variable in functions.php
+
+Version 1.0.1, January 25, 2018
+- Fixed syntax error in single.php that was causing a 500 Error in certain server environments

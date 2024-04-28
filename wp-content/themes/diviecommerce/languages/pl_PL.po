@@ -1,0 +1,595 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-30 19:41+0100\n"
+"PO-Revision-Date: 2020-01-30 20:17+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_att;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"Last-Translator: \n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "404"
+msgstr "Błąd 404"
+
+#: 404.php:14
+msgid "Oops! Page not found."
+msgstr "Oops! Strona nie została znaleziona."
+
+#: 404.php:15
+msgid ""
+"Sorry, but the page you are looking for is not found. Please, make sure you "
+"have typed the current url."
+msgstr ""
+"Przepraszamy, ale strona, której szukasz, nie została znaleziona. Upewnij "
+"się, że wpisałeś bieżący adres URL."
+
+#: 404.php:19
+msgid "Back to homepage"
+msgstr "Powrót do strony głównej"
+
+#: admin-functions.php:97 updater/theme-updater.php:570
+msgid "Divi"
+msgstr "Divi"
+
+#: admin-functions.php:105
+msgid "Theme Options"
+msgstr "Opcje motywu"
+
+#: admin-functions.php:112 admin-functions.php:172
+#: aspen-demo-content/admin-menu.php:10
+#: aspen-demo-content/importer/aspen-importer.php:220
+#: aspen-demo-content/importer/aspen-importer.php:224
+msgid "Import Demo Data"
+msgstr "Importuj Dane Demo"
+
+#: admin-functions.php:129
+msgid "Divi Child Theme"
+msgstr "Motyw szablonu Divi"
+
+#: admin-functions.php:133
+msgid "Support"
+msgstr "Wsparcie"
+
+#: admin-functions.php:138
+msgid "Demo Content"
+msgstr "Zawartość demo"
+
+#: admin-functions.php:139
+msgid "License"
+msgstr "Licencja"
+
+#: admin-functions.php:149
+#, php-format
+msgid ""
+"Use  our built-in demo content tool. This will install the content and the "
+"design structure as shown in %1$s"
+msgstr ""
+"Skorzystaj z naszego wbudowanego narzędzia do tworzenia treści "
+"demonstracyjnych. Spowoduje to zainstalowanie zawartości i struktury "
+"projektu, jak pokazano %1$s"
+
+#: admin-functions.php:152
+msgid "The items that will be imported are:"
+msgstr "Elementy, które zostaną zaimportowane to:"
+
+#: admin-functions.php:154
+msgid "Demo text content"
+msgstr "Demonstracyjna treść"
+
+#: admin-functions.php:155
+msgid "Placeholder media files"
+msgstr "Multimedia takie jak grafiki, ikony"
+
+#: admin-functions.php:156
+msgid "Navigation Menu "
+msgstr "Menu "
+
+#: admin-functions.php:157
+msgid "Demo posts, pages and products "
+msgstr "Posty, produkty, strony "
+
+#: admin-functions.php:158
+msgid "Site widgets (if applicable)"
+msgstr "Widgety (jeśli dotyczy)"
+
+#: admin-functions.php:161
+msgid "Please note: "
+msgstr "Uwaga: "
+
+#: admin-functions.php:163
+msgid "No WordPress settings will be imported."
+msgstr "Ustawienia WordPressa nie zostaną zaimportowane."
+
+#: admin-functions.php:164
+msgid ""
+"No existing posts, pages, products, images, categories or any data will be "
+"modified or deleted."
+msgstr ""
+"Żadne istniejące posty, strony, produkty, obrazy, kategorie lub jakiekolwiek "
+"dane nie zostaną zmodyfikowane ani usunięte."
+
+#: admin-functions.php:165
+msgid ""
+"The importer will install only placeholder images showing their usage "
+"dimension. You can refer to our demo site and replace the placeholder with "
+"your own images."
+msgstr ""
+"Importer zainstaluje tylko obrazy demo. Możesz odnieść się do naszej witryny "
+"demonstracyjnej i zastąpić je własnymi obrazami."
+
+#: aspen-demo-content/importer/aspen-importer.php:187
+msgid "Before you begin, make sure all the required"
+msgstr "Zanim rozpoczniesz, upewnij się że wszystkie wymagane"
+
+#: aspen-demo-content/importer/aspen-importer.php:188
+msgid "plugins are activated"
+msgstr "wtyczki są aktywne"
+
+#: aspen-demo-content/importer/aspen-importer.php:189
+msgid "if applicable"
+msgstr "jeśli dotyczy"
+
+#: aspen-demo-content/importer/aspen-importer.php:192
+msgid ""
+"Please click the import button once and wait for the process to complete."
+msgstr "Kliknij raz przycisk importuj i poczekaj na zakończenie procesu."
+
+#: aspen-demo-content/importer/aspen-importer.php:193
+msgid ""
+"Please do not navigate away from this page until the import is complete."
+msgstr "Nie opuszczaj tej strony, dopóki import nie zostanie zakończony."
+
+#: aspen-demo-content/importer/aspen-importer.php:201
+msgid "Demo already imported"
+msgstr "Demo jest już zaimportowane"
+
+#: aspen-demo-content/importer/aspen-importer.php:218
+msgid "Import Again"
+msgstr "Importuj ponownie"
+
+#: aspen-demo-content/importer/aspen-importer.php:236
+msgid "Importing Demo Data..."
+msgstr "Importowanie danych demo…."
+
+#: aspen-demo-content/importer/aspen-importer.php:237
+msgid "Import Complete!"
+msgstr "Import zakończony!"
+
+#: aspen-demo-content/importer/aspen-importer.php:242
+msgid "Enjoy your new child theme!"
+msgstr "Ciesz się nowym szablonem!"
+
+#: aspen-demo-content/importer/aspen-importer.php:242
+msgid "Please check to make sure that the import was successful."
+msgstr "Sprawdź, czy import się powiódł."
+
+#: aspen-demo-content/importer/aspen-importer.php:266
+msgid "The import has started. It can take several minutes. Please be patient."
+msgstr ""
+"Proces importuj się rozpoczął. Może to potrwać kilka minut. Prosimy o cierpliwoś."
+
+#: aspen-demo-content/importer/aspen-importer.php:352
+msgid "All done, enjoy your new child theme!"
+msgstr "Wszystko gotowe, ciesz się nowym szablonem!"
+
+#: aspen-demo-content/importer/aspen-importer.php:353
+msgid "Please check whether the import was successful."
+msgstr "Sprawdź, czy import się powiódł."
+
+#: aspen-demo-content/importer/aspen-importer.php:510
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+"Nie można znaleźć pliku ‘Opcje motywu’ do importu. Proszę spróbuj ponownie."
+
+#: aspen-demo-content/importer/aspen-importer.php:582
+msgid "Widget Import file could not be found. Please try again."
+msgstr "Nie można znaleźć pliku do importu widgetów. Proszę spróbuj ponownie."
+
+#: aspen-demo-content/importer/aspen-importer.php:655
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr "Sidebar nie istnieje w szablonie"
+
+#: aspen-demo-content/importer/aspen-importer.php:677
+msgid "Site does not support widget"
+msgstr "Witryna nie obsługuje widgetów"
+
+#: aspen-demo-content/importer/aspen-importer.php:700
+msgid "Widget already exists"
+msgstr "Widget już istnieje"
+
+#: aspen-demo-content/importer/aspen-importer.php:756
+msgid "Imported"
+msgstr "Zaimportowane"
+
+#: aspen-demo-content/importer/aspen-importer.php:759
+msgid "Imported to Inactive"
+msgstr "Zaimportowano jako nieaktywne"
+
+#: aspen-demo-content/importer/aspen-importer.php:766
+msgid "No Title"
+msgstr "Bez tytułu"
+
+#: aspen-demo-content/importer/parsers.php:58
+#: aspen-demo-content/importer/parsers.php:79
+msgid "There was an error when reading this WXR file"
+msgstr "Wystąpił błąd podczas odczytu tego pliku WXR"
+
+#: aspen-demo-content/importer/parsers.php:59
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Szczegóły pokazano powyżej. Importer spróbuje teraz ponownie z innym "
+"parserem .."
+
+#: aspen-demo-content/importer/parsers.php:83
+#: aspen-demo-content/importer/parsers.php:88
+#: aspen-demo-content/importer/parsers.php:278
+#: aspen-demo-content/importer/parsers.php:463
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Wygląda na to, że nie jest to plik WXR, brakujący / nieprawidłowy numer "
+"wersji WXR"
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "Assign Authors"
+msgstr "Przypisz autorów"
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"Aby ułatwić Ci edycję i zapisanie importowanej zawartości, możesz ponownie "
+"przypisać autora importowanego elementu do istniejącego użytkownika tej "
+"witryny. Na przykład możesz zaimportować wszystkie wpisy jako wpisy <code> "
+"admin </code>."
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "Import Attachments"
+msgstr "Importuj załączniki"
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "Download and import file attachments"
+msgstr "Pobierz i importuj załączniki"
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "Submit"
+msgstr "Zatwierdź"
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "Import author:"
+msgstr "Importuj autora:"
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "or create new user with login name:"
+msgstr "lub utwórz nowego użytkownika o nazwie logowania:"
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "as a new user:"
+msgstr "jako nowy użytkownik:"
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "assign posts to an existing user:"
+msgstr "przypisz posty do istniejącego użytkownika:"
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "or assign posts to an existing user:"
+msgstr "lub przypisz posty do istniejącego użytkownika:"
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "- Select -"
+msgstr "- Wybierz -"
+
+#: customizer/customizer.php:11
+#, fuzzy
+msgid "Divi Ecommerce Child Theme Settings"
+msgstr "Motyw szablonu Divi"
+
+#: customizer/customizer.php:17
+msgid "Color Scheme"
+msgstr "Schemat kolorów"
+
+#: customizer/customizer.php:20
+msgid "Color settings will be applied to your Divi Child Theme color scheme."
+msgstr ""
+"Ustawienia kolorów zostaną zastosowane do schematu kolorów Divi Child Theme."
+
+#: customizer/customizer.php:24
+msgid "Primary Button Color Scheme"
+msgstr "Schemat kolorów przycisków głównych"
+
+#: customizer/customizer.php:27
+msgid "Color settings below will be applied to primary buttons."
+msgstr ""
+"Poniższe ustawienia kolorów zostaną zastosowane do głównych przycisków."
+
+#: customizer/customizer.php:31
+msgid "Secondary Button Color Scheme"
+msgstr "Schemat kolorów przycisków drugiego rzędu"
+
+#: customizer/customizer.php:34
+msgid "Color settings below will be applied to secondary buttons."
+msgstr ""
+"Poniższe ustawienia kolorów zostaną zastosowane do przycisków drugiego rzędu."
+
+#: customizer/customizer.php:38
+msgid "Outline Button Color Scheme"
+msgstr "Kolor obramowania przycisków"
+
+#: customizer/customizer.php:41
+msgid "Color settings below will be applied to outline buttons."
+msgstr ""
+"Poniższe ustawienia kolorów zostaną zastosowane do obramowania przycisków ."
+
+#: customizer/customizer.php:57
+msgid "Main Accent Color"
+msgstr "Główny kolor szablonu"
+
+#: customizer/customizer.php:76 customizer/customizer.php:161
+#: customizer/customizer.php:246
+msgid "Text Color"
+msgstr "Kolor tekstu"
+
+#: customizer/customizer.php:90 customizer/customizer.php:175
+#: customizer/customizer.php:260
+msgid "Border Color"
+msgstr "Kolor obramowania"
+
+#: customizer/customizer.php:104 customizer/customizer.php:189
+#: customizer/customizer.php:274
+msgid "Background Color"
+msgstr "Kolor tła"
+
+#: customizer/customizer.php:118 customizer/customizer.php:203
+#: customizer/customizer.php:288
+msgid "Hover Text Color"
+msgstr "Kolor tekstu po najechaniu myszką"
+
+#: customizer/customizer.php:132 customizer/customizer.php:217
+#: customizer/customizer.php:302
+msgid "Hover Border Color"
+msgstr "Kolor obramowania po najechaniu myszką"
+
+#: customizer/customizer.php:146 customizer/customizer.php:231
+#: customizer/customizer.php:316
+msgid "Hover Background Color"
+msgstr "Kolor tła po najechaniu myszką"
+
+#: functions.php:83
+msgid "Woocommerce Sidebar"
+msgstr "Woocommerce Sidebar"
+
+#: functions.php:84
+msgid "This is the WooCommerce shop sidebar"
+msgstr "To jest sidebar sklepu WooCommerce"
+
+#: functions.php:133
+msgid "Your cart is empty :("
+msgstr "Twój koszyk jest pusty :("
+
+#: functions.php:135
+msgid "Looks like you have not made your choice yet..."
+msgstr "Wygląda na to, że jeszcze nie dokonałeś wyboru …"
+
+#: functions.php:204
+msgid "Shop Now"
+msgstr "Kup teraz"
+
+#: index.php:60 single.php:189
+msgid "read more"
+msgstr "więcej"
+
+#: single.php:107
+msgid "Pages:"
+msgstr "Strony:"
+
+#: single.php:169
+msgid "Related Posts"
+msgstr "Powiązane posty"
+
+#: updater/theme-updater.php:30
+msgid "Theme License"
+msgstr "Licencja szablony"
+
+#: updater/theme-updater.php:31
+msgid "Enter your theme license key."
+msgstr "Wpisz klucz licencji aby aktywować szablon."
+
+#: updater/theme-updater.php:32
+msgid "License Key"
+msgstr "Klucz licencji"
+
+#: updater/theme-updater.php:33
+msgid "License Action"
+msgstr "Działanie licencyjne"
+
+#: updater/theme-updater.php:34
+msgid "Deactivate License"
+msgstr "Dezaktywuj licencję"
+
+#: updater/theme-updater.php:35
+msgid "Activate License"
+msgstr "Aktywuj licencję"
+
+#: updater/theme-updater.php:36 updater/theme-updater.php:49
+msgid "License status is unknown."
+msgstr "Status licencji jest nieznany."
+
+#: updater/theme-updater.php:37
+msgid "Renew?"
+msgstr "Odnowić?"
+
+#: updater/theme-updater.php:38
+msgid "unlimited"
+msgstr "bez limitu"
+
+#: updater/theme-updater.php:39
+msgid "License key is active."
+msgstr "Klucz licencyjny jest aktywny."
+
+#: updater/theme-updater.php:40
+#, php-format
+msgid "Expires %s."
+msgstr "Wygasa %s."
+
+#: updater/theme-updater.php:41
+msgid "Lifetime License."
+msgstr "Dożywotnia licencja."
+
+#: updater/theme-updater.php:42
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr "Aktywowane strony: %1$s / %2$s ."
+
+#: updater/theme-updater.php:43
+#, php-format
+msgid "License key expired %s."
+msgstr "Klucz licencyjny wygasł %s."
+
+#: updater/theme-updater.php:44
+msgid "License key has expired."
+msgstr "Klucz licencyjny wygasł."
+
+#: updater/theme-updater.php:45
+msgid "License keys do not match."
+msgstr "Klucze licencyjne nie pasują do siebie."
+
+#: updater/theme-updater.php:46
+msgid "License is inactive."
+msgstr "Licencja jest nieaktywna."
+
+#: updater/theme-updater.php:47
+msgid "License key is disabled."
+msgstr "Klucz licencyjny jest wyłączony."
+
+#: updater/theme-updater.php:48
+msgid "Site is inactive."
+msgstr "Strona jest nieaktywna."
+
+#: updater/theme-updater.php:50
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"Aktualizacja tego motywu spowoduje utratę wszelkich zmian. „Anuluj”, aby "
+"zatrzymać, „OK”, aby zaktualizować."
+
+#: updater/theme-updater.php:51
+#, php-format
+msgid "%1$s is available. %2$sCheck out what's new%3$s or %4$supdate now%5$s."
+msgstr ""
+"%1$s jest dostępny. %2$s Sprawdź, co nowego %3$s lub %4$s zaktualizuj teraz "
+"%5$s."
+
+#: updater/theme-updater.php:52
+#, php-format
+msgid "%1$s is available. %2$sRenew your license key%3$s to update."
+msgstr ""
+"%1$s iest dostępny. %2$s Odnów swój klucz licencyjny %3$s aby zaktualizować."
+
+#: updater/theme-updater.php:194 updater/theme-updater.php:575
+msgid "License Key:"
+msgstr "Licencja:"
+
+#: updater/theme-updater.php:199 updater/theme-updater.php:604
+msgid "An unknown error has occurred. Please try again."
+msgstr "Wystąpił nieznany błąd. Proszę spróbuj ponownie."
+
+#: updater/theme-updater.php:259
+msgid "Error"
+msgstr "Błąd"
+
+#: updater/theme-updater.php:290 updater/theme-updater.php:336
+#: updater/theme-updater.php:405
+msgid "An error occurred, please try again."
+msgstr "Wystąpił błąd. Proszę spróbować ponownie."
+
+#: updater/theme-updater.php:303
+#, php-format
+msgid "Your license key expired on %1$s. Please visit our website to renew."
+msgstr ""
+"Twój klucz licencyjny wygasł w dniu %1$s. Odwiedź naszą stronę internetową, "
+"aby odnowić."
+
+#: updater/theme-updater.php:310
+msgid "Your license key has been disabled."
+msgstr "Twój klucz licencyjny został dezaktywowany."
+
+#: updater/theme-updater.php:315
+msgid "Invalid license key."
+msgstr "Nieprawidłowy klucz licencyjny."
+
+#: updater/theme-updater.php:321
+msgid "Your license is not active for this URL."
+msgstr "Twoja licencja jest nieaktywna dla tego adresu URL."
+
+#: updater/theme-updater.php:326
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr "Wygląda na to, że jest to nieprawidłowy klucz licencyjny  %s."
+
+#: updater/theme-updater.php:331
+msgid ""
+"Your license key has reached its activation limit. Please deactivate the key "
+"on one of your other sites before activating it on this site."
+msgstr ""
+"Twój klucz licencyjny osiągnął limit aktywacji. Przed aktywowaniem go w tej "
+"witrynie należy dezaktywować klucz  z innych stron."
+
+#: updater/theme-updater.php:416
+msgid "An error occurred while deactivating your license key."
+msgstr "Wystąpił błąd podczas aktywacji."
+
+#: updater/theme-updater.php:588
+msgid "This license key does not expire."
+msgstr "Dożywotnia licencja."
+
+#: updater/theme-updater.php:590
+#, php-format
+msgid ""
+"Expired on %1$s. %2$sRenew now%3$s to continue receiving updates and support."
+msgstr ""
+"Licencja wygasła %1$s. %2$s Odnów tutaj %3$s aby otrzymywać dalsze wsparcie "
+"i aktualizacje."
+
+#: updater/theme-updater.php:595
+#, php-format
+msgid "Expires on %1$s. %2$sClick here%3$s to renew."
+msgstr "Licencja wygaśnie %1$s. %2$s Naciśnij tutaj %3$s aby odnowić."
+
+#: updater/theme-updater.php:606
+msgid "Deactivate License Key"
+msgstr "Dezaktywuj licencję"
+
+#: updater/theme-updater.php:721 updater/theme-updater.php:729
+msgid " "
+msgstr ""
+
+#: admin-fuctions.php:147
+msgid "This Demo"
+msgstr "na stronie demo"

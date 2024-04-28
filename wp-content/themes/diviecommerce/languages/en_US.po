@@ -1,0 +1,557 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi Ecommerce\n"
+"POT-Creation-Date: 2020-01-30 19:41+0100\n"
+"PO-Revision-Date: 2020-01-30 20:30+0100\n"
+"Last-Translator: \n"
+"Language-Team: WP Zone\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_att;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: 404.php:13
+msgid "404"
+msgstr ""
+
+#: 404.php:14
+msgid "Oops! Page not found."
+msgstr ""
+
+#: 404.php:15
+msgid ""
+"Sorry, but the page you are looking for is not found. Please, make sure you "
+"have typed the current url."
+msgstr ""
+
+#: 404.php:19
+msgid "Back to homepage"
+msgstr ""
+
+#: admin-functions.php:97 updater/theme-updater.php:570
+msgid "Divi"
+msgstr ""
+
+#: admin-functions.php:105
+msgid "Theme Options"
+msgstr ""
+
+#: admin-functions.php:112 admin-functions.php:172
+#: aspen-demo-content/admin-menu.php:10
+#: aspen-demo-content/importer/aspen-importer.php:220
+#: aspen-demo-content/importer/aspen-importer.php:224
+msgid "Import Demo Data"
+msgstr ""
+
+#: admin-functions.php:129
+msgid "Divi Child Theme"
+msgstr ""
+
+#: admin-functions.php:133
+msgid "Support"
+msgstr ""
+
+#: admin-functions.php:138
+msgid "Demo Content"
+msgstr ""
+
+#: admin-functions.php:139
+msgid "License"
+msgstr ""
+
+#: admin-functions.php:149
+#, php-format
+msgid ""
+"Use  our built-in demo content tool. This will install the content and the "
+"design structure as shown in %1$s"
+msgstr ""
+
+#: admin-functions.php:152
+msgid "The items that will be imported are:"
+msgstr ""
+
+#: admin-functions.php:154
+msgid "Demo text content"
+msgstr ""
+
+#: admin-functions.php:155
+msgid "Placeholder media files"
+msgstr ""
+
+#: admin-functions.php:156
+msgid "Navigation Menu "
+msgstr ""
+
+#: admin-functions.php:157
+msgid "Demo posts, pages and products "
+msgstr ""
+
+#: admin-functions.php:158
+msgid "Site widgets (if applicable)"
+msgstr ""
+
+#: admin-functions.php:161
+msgid "Please note: "
+msgstr ""
+
+#: admin-functions.php:163
+msgid "No WordPress settings will be imported."
+msgstr ""
+
+#: admin-functions.php:164
+msgid ""
+"No existing posts, pages, products, images, categories or any data will be "
+"modified or deleted."
+msgstr ""
+
+#: admin-functions.php:165
+msgid ""
+"The importer will install only placeholder images showing their usage "
+"dimension. You can refer to our demo site and replace the placeholder with "
+"your own images."
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:187
+msgid "Before you begin, make sure all the required"
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:188
+msgid "plugins are activated"
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:189
+msgid "if applicable"
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:192
+msgid ""
+"Please click the import button once and wait for the process to complete."
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:193
+msgid ""
+"Please do not navigate away from this page until the import is complete."
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:201
+msgid "Demo already imported"
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:218
+msgid "Import Again"
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:236
+msgid "Importing Demo Data..."
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:237
+msgid "Import Complete!"
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:242
+msgid "Enjoy your new child theme!"
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:242
+msgid "Please check to make sure that the import was successful."
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:266
+msgid "The import has started. It can take several minutes. Please be patient."
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:352
+msgid "All done, enjoy your new child theme!"
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:353
+msgid "Please check whether the import was successful."
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:510
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:582
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:655
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:677
+msgid "Site does not support widget"
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:700
+msgid "Widget already exists"
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:756
+msgid "Imported"
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:759
+msgid "Imported to Inactive"
+msgstr ""
+
+#: aspen-demo-content/importer/aspen-importer.php:766
+msgid "No Title"
+msgstr ""
+
+#: aspen-demo-content/importer/parsers.php:58
+#: aspen-demo-content/importer/parsers.php:79
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: aspen-demo-content/importer/parsers.php:59
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: aspen-demo-content/importer/parsers.php:83
+#: aspen-demo-content/importer/parsers.php:88
+#: aspen-demo-content/importer/parsers.php:278
+#: aspen-demo-content/importer/parsers.php:463
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "Assign Authors"
+msgstr ""
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "Import Attachments"
+msgstr ""
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "Download and import file attachments"
+msgstr ""
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "Submit"
+msgstr ""
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "Import author:"
+msgstr ""
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "or create new user with login name:"
+msgstr ""
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "as a new user:"
+msgstr ""
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: aspen-demo-content/importer/wordpress-importer.php:1
+msgid "- Select -"
+msgstr ""
+
+#: customizer/customizer.php:11
+msgid "Divi Ecommerce Child Theme Settings"
+msgstr ""
+
+#: customizer/customizer.php:17
+msgid "Color Scheme"
+msgstr ""
+
+#: customizer/customizer.php:20
+msgid "Color settings will be applied to your Divi Child Theme color scheme."
+msgstr ""
+
+#: customizer/customizer.php:24
+msgid "Primary Button Color Scheme"
+msgstr ""
+
+#: customizer/customizer.php:27
+msgid "Color settings below will be applied to primary buttons."
+msgstr ""
+
+#: customizer/customizer.php:31
+msgid "Secondary Button Color Scheme"
+msgstr ""
+
+#: customizer/customizer.php:34
+msgid "Color settings below will be applied to secondary buttons."
+msgstr ""
+
+#: customizer/customizer.php:38
+msgid "Outline Button Color Scheme"
+msgstr ""
+
+#: customizer/customizer.php:41
+msgid "Color settings below will be applied to outline buttons."
+msgstr ""
+
+#: customizer/customizer.php:57
+msgid "Main Accent Color"
+msgstr ""
+
+#: customizer/customizer.php:76 customizer/customizer.php:161
+#: customizer/customizer.php:246
+msgid "Text Color"
+msgstr ""
+
+#: customizer/customizer.php:90 customizer/customizer.php:175
+#: customizer/customizer.php:260
+msgid "Border Color"
+msgstr ""
+
+#: customizer/customizer.php:104 customizer/customizer.php:189
+#: customizer/customizer.php:274
+msgid "Background Color"
+msgstr ""
+
+#: customizer/customizer.php:118 customizer/customizer.php:203
+#: customizer/customizer.php:288
+msgid "Hover Text Color"
+msgstr ""
+
+#: customizer/customizer.php:132 customizer/customizer.php:217
+#: customizer/customizer.php:302
+msgid "Hover Border Color"
+msgstr ""
+
+#: customizer/customizer.php:146 customizer/customizer.php:231
+#: customizer/customizer.php:316
+msgid "Hover Background Color"
+msgstr ""
+
+#: functions.php:83
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: functions.php:84
+msgid "This is the WooCommerce shop sidebar"
+msgstr ""
+
+#: functions.php:133
+msgid "Your cart is empty :("
+msgstr ""
+
+#: functions.php:135
+msgid "Looks like you have not made your choice yet..."
+msgstr ""
+
+#: functions.php:204
+msgid "Shop Now"
+msgstr ""
+
+#: index.php:60 single.php:189
+msgid "read more"
+msgstr ""
+
+#: single.php:107
+msgid "Pages:"
+msgstr ""
+
+#: single.php:169
+msgid "Related Posts"
+msgstr ""
+
+#: updater/theme-updater.php:30
+msgid "Theme License"
+msgstr ""
+
+#: updater/theme-updater.php:31
+msgid "Enter your theme license key."
+msgstr ""
+
+#: updater/theme-updater.php:32
+msgid "License Key"
+msgstr ""
+
+#: updater/theme-updater.php:33
+msgid "License Action"
+msgstr ""
+
+#: updater/theme-updater.php:34
+msgid "Deactivate License"
+msgstr ""
+
+#: updater/theme-updater.php:35
+msgid "Activate License"
+msgstr ""
+
+#: updater/theme-updater.php:36 updater/theme-updater.php:49
+msgid "License status is unknown."
+msgstr ""
+
+#: updater/theme-updater.php:37
+msgid "Renew?"
+msgstr ""
+
+#: updater/theme-updater.php:38
+msgid "unlimited"
+msgstr ""
+
+#: updater/theme-updater.php:39
+msgid "License key is active."
+msgstr ""
+
+#: updater/theme-updater.php:40
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: updater/theme-updater.php:41
+msgid "Lifetime License."
+msgstr ""
+
+#: updater/theme-updater.php:42
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: updater/theme-updater.php:43
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: updater/theme-updater.php:44
+msgid "License key has expired."
+msgstr ""
+
+#: updater/theme-updater.php:45
+msgid "License keys do not match."
+msgstr ""
+
+#: updater/theme-updater.php:46
+msgid "License is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:47
+msgid "License key is disabled."
+msgstr ""
+
+#: updater/theme-updater.php:48
+msgid "Site is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:50
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: updater/theme-updater.php:51
+#, php-format
+msgid "%1$s is available. %2$sCheck out what's new%3$s or %4$supdate now%5$s."
+msgstr ""
+
+#: updater/theme-updater.php:52
+#, php-format
+msgid "%1$s is available. %2$sRenew your license key%3$s to update."
+msgstr ""
+
+#: updater/theme-updater.php:194 updater/theme-updater.php:575
+msgid "License Key:"
+msgstr ""
+
+#: updater/theme-updater.php:199 updater/theme-updater.php:604
+msgid "An unknown error has occurred. Please try again."
+msgstr ""
+
+#: updater/theme-updater.php:259
+msgid "Error"
+msgstr ""
+
+#: updater/theme-updater.php:290 updater/theme-updater.php:336
+#: updater/theme-updater.php:405
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: updater/theme-updater.php:303
+#, php-format
+msgid "Your license key expired on %1$s. Please visit our website to renew."
+msgstr ""
+
+#: updater/theme-updater.php:310
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: updater/theme-updater.php:315
+msgid "Invalid license key."
+msgstr ""
+
+#: updater/theme-updater.php:321
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: updater/theme-updater.php:326
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: updater/theme-updater.php:331
+msgid ""
+"Your license key has reached its activation limit. Please deactivate the key "
+"on one of your other sites before activating it on this site."
+msgstr ""
+
+#: updater/theme-updater.php:416
+msgid "An error occurred while deactivating your license key."
+msgstr ""
+
+#: updater/theme-updater.php:588
+msgid "This license key does not expire."
+msgstr ""
+
+#: updater/theme-updater.php:590
+#, php-format
+msgid ""
+"Expired on %1$s. %2$sRenew now%3$s to continue receiving updates and support."
+msgstr ""
+
+#: updater/theme-updater.php:595
+#, php-format
+msgid "Expires on %1$s. %2$sClick here%3$s to renew."
+msgstr ""
+
+#: updater/theme-updater.php:606
+msgid "Deactivate License Key"
+msgstr ""
+
+#: updater/theme-updater.php:721 updater/theme-updater.php:729
+msgid " "
+msgstr ""
+
+#: admin-fuctions.php:147
+msgid "This Demo"
+msgstr ""

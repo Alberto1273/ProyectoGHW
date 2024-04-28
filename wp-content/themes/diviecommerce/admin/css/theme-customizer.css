@@ -1,0 +1,14 @@
+/* Fix styling issue with checkbox and make settings readable */
+
+#sub-accordion-section-divi_ecommerce_wc input[type=checkbox]:checked:before {
+    margin : 0 0 0 -5px;
+}
+
+#sub-accordion-section-divi_ecommerce_wc .customize-control-checkbox .description {
+    text-transform : none;
+    font-weight    : normal;
+}
+
+#sub-accordion-section-divi_ecommerce_wc .customize-control-checkbox {
+    margin-bottom : 20px !important;
+}
